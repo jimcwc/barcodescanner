@@ -30,4 +30,4 @@
 
 
 效果图：
-![Image text](barcodescanner/imagefolder/1219.png)
+![Image text](https://github.com/jimcwc/barcodescanner/blob/master/imagefolder/1219.png)
