@@ -1,6 +1,6 @@
 # barcodescanner
 
-本工程将扫描的功能抽取出来当做一个module来使用，别的项目使用时直接将本项目下载下来，当做module 导入即可。
+本工程将扫描的功能抽取出来当做一个module来使用，别的项目使用时直接将本项目下载下来，将hand_scan_librar文件夹当做module 导入即可。
 
 
 主要的调用方法
@@ -27,3 +27,7 @@
         }
     }
 </code></pre>
+
+
+效果图：
+![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
